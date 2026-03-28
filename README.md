@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Amir Omran]
+# Hi 👋 I'm Amir Omran
 
 ## 🚀 Backend Developer (.NET)
 
