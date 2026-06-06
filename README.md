@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shymaa Mohamed
+# Hi 👋 I'm Amir Omran
 
 ## 🚀 Data Science & AI Enthusiast
 
